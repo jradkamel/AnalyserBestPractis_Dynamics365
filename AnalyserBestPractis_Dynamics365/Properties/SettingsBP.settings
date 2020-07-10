@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AnalyserBestPractis_Dynamics365.Properties" GeneratedClassName="SettingsBP">
+  <Profiles />
+  <Settings>
+    <Setting Name="AxEnum" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxEdt" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxEdtExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+    <Setting Name="AxEnumExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+    <Setting Name="AxClass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxFormExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+    <Setting Name="AxLabelFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxMap" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxMapExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+    <Setting Name="AxMenu" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxMenuExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+    <Setting Name="AxMenuItemAction" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxMenuItemActionExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+    <Setting Name="AxMenuItemDisplay" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxMenuItemDisplayExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+    <Setting Name="AxMenuItemOutput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxMenuItemOutputExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+    <Setting Name="AxPage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxQuery" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxReport" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxResource" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxRuleSet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxSecurityDuty" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxSecurityPolicy" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxSecurityPrivilege" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxSecurityRole" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxTable" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxTile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxView" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[SPD][ObjectName]</Value>
+    </Setting>
+    <Setting Name="AxViewExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ObjectName].[SPD]</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

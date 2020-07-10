@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AnalyserBestPractis_Dynamics365.Properties" GeneratedClassName="ModelList">
+  <Profiles />
+  <Settings>
+    <Setting Name="SILCOMKER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Automotive;GMAO</Value>
+    </Setting>
+    <Setting Name="SILCOMBAS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Automotive</Value>
+    </Setting>
+    <Setting Name="SILCOMMAN" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Automotive</Value>
+    </Setting>
+    <Setting Name="SILCOMINT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Automotive</Value>
+    </Setting>
+    <Setting Name="SILGMAO" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GMAO</Value>
+    </Setting>
+    <Setting Name="Trigramme" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SIL</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
